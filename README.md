@@ -28,6 +28,12 @@
 
 ###
 
-<img align="right" height="300" src="https://tenor.com/es-419/view/developer-gif-3260265985444922426"  />
+<img align="right" height="300" src="https://www.motorolasolutions.com/content/dam/msi/images/solutions/safety-reimagined/xu/lost_4_final.png"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+</div>
 
 ###
