@@ -1,8 +1,20 @@
-<p align="left">Hello World!! Welcome to my profile.</p>
+<h1 align="left">Hello World!! Welcome to my profile.</h1>
 
 ###
 
-<p align="left">I'm Neyer, a beginner programmer.</p>
+<p align="left">My name is Neyer and I'm a beginner programmer.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I like to create algorithms to simplify the world<br>📚 I'm studying<br>🎯 Goals: to program future artificial intelligences<br>🎲 Fun fact: I like soccer</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -10,23 +22,12 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neyer-h21/neyer-h21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neyer-h21/neyer-h21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neyer-h21/neyer-h21/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <a href="https://t.me/Neyer_61" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
+<img align="right" height="300" src="https://tenor.com/es-419/view/developer-gif-3260265985444922426"  />
 
 ###
